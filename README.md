@@ -1,4 +1,4 @@
-# Java-samples
+# Java-samples-for ICD-11 implementation 
 ICD API samples in Java 
 
 for testing you can use -
